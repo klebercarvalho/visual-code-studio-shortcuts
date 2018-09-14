@@ -29,4 +29,10 @@ On Windows Shift + Alt + F
 On Mac Shift + Option + F
 On Ubuntu Ctrl + Shift + I
 ```
-Alternatively, you can find the shortcut, as well as other shortcuts, through the search functionality provided in the editor with Ctrl +Shift+ P (or Command + Shift + P on Mac), and then searching for format document.
+Alternatively, you can find the shortcut, as well as other shortcuts, through the search functionality provided in the editor with Ctrl +Shift+ P (or Command + Shift + P on Mac), and then searching for format document.Prettier - Code formatter
+
+Document This
+
+```sh
+Ctrl+Alt+D and again Ctrl+Alt+D
+```
