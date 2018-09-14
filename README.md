@@ -13,7 +13,7 @@
     - Windows -  https://go.microsoft.com/fwlink/?linkid=832145
     - Linux - https://go.microsoft.com/fwlink/?linkid=832144
 
-_Prettier - Code formatter_
+__Prettier - Code formatter__
 
 ```sh
 1. CMD + Shift + P -> Format Document
@@ -22,7 +22,7 @@ OR
 2. CMD + Shift + P -> Format Selection
 ```
 
-The code formatting is available in VS Code through the following shortcuts:
+__The code formatting is available in VS Code through the following shortcuts__
 
 ```sh
 On Windows Shift + Alt + F
@@ -31,7 +31,7 @@ On Ubuntu Ctrl + Shift + I
 ```
 Alternatively, you can find the shortcut, as well as other shortcuts, through the search functionality provided in the editor with Ctrl +Shift+ P (or Command + Shift + P on Mac), and then searching for format document.
 
-Document This
+__Document This__
 
 ```sh
 Ctrl+Alt+D and again Ctrl+Alt+D
