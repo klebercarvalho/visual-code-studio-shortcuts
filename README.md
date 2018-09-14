@@ -13,7 +13,7 @@
     - Windows -  https://go.microsoft.com/fwlink/?linkid=832145
     - Linux - https://go.microsoft.com/fwlink/?linkid=832144
 
-Prettier - Code formatter
+_Prettier - Code formatter_
 
 ```sh
 1. CMD + Shift + P -> Format Document
